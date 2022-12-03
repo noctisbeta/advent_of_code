@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+1yPA7JMFD62f2QZB0+6+ObZRmdjocG3qC8hMNw9soTGIzlL3s06ENrIJHsiNHi1GjapxT9BYx1AQAt+svGcjg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\advent_of_code\\aoc_2022\\f#\\day_1\\day_1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nocti\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
